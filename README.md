@@ -3,7 +3,7 @@
 🎓 Senior IT major specializing in Information Security and Cybersecurity, on track to graduate in May 2024 from New Jersey Institute of Technology.
 
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kenneth-thomas-baidoo-467574220/)
-
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kenneth-thomas-baidoo-467574220/) for more insights into my cybersecurity journey.
 ### About Me
 
 Passionate about fortifying IT systems, providing technical support, and solving complex issues related to computer and network security. Profound understanding of IT security frameworks and adept at swift problem-solving to tackle security challenges.
@@ -47,7 +47,7 @@ Stay tuned for more endeavors as I continue my journey in the cybersecurity land
 
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/kenneth-thomas-baidoo-467574220/) for more insights into my cybersecurity journey.
+
 
 ### Training
 
