@@ -49,7 +49,7 @@ Stay tuned for more endeavors as I continue my journey in the cybersecurity land
 
 ---
 
-### Scanning Live Host and Open ports to detect any breahces
+### Scanning Live Host and Open Ports To Detect Any Breaches | Security Blue Team Training
 
 - **Proficiently employed Nmap for host discovery, employing packet transmission to IP addresses to assess network responsiveness and identify potential vulnerabilities.
 
