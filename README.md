@@ -1,5 +1,5 @@
 ## Kenneth Thomas Baidoo
-
+ This sections displays my profile
 🎓 Senior IT major specializing in Information Security and Cybersecurity, on track to graduate in May 2024 from New Jersey Institute of Technology.
 
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/kenneth-thomas-baidoo-467574220/)
