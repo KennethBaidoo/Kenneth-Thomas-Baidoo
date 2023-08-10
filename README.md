@@ -31,7 +31,7 @@ Windows Administration | Operating Systems | Information Security | Programming 
 
 During my training with Security Blue Team, I had the opportunity to explore the realm of vulnerability management and scanning. One of the pivotal tools in this journey was Nessus, a robust vulnerability scanner.
 
-#### Key Highlights:
+#### Key Highlights: 
 
 - **In-Depth Learning:** I delved into the intricacies of Nessus, honing my skills in identifying and assessing vulnerabilities within systems and networks.
 
